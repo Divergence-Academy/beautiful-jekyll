@@ -41,7 +41,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Divergence Academy
   email: "hello@divergence.academy"
-  facebook: divergence-academy  # eg. daattali
+  facebook: divergenceacademy  # eg. daattali
   github: divergence-academy    # eg. daattali
   twitter: divergencedfw   # eg. daattali
   linkedin: "company/divergence-academy"  # eg. "pub/dean-attali/8/946/143"
@@ -62,7 +62,7 @@ url-pretty: "divergence.academy"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "divergence"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
