@@ -2,6 +2,7 @@
 layout: post
 title: Data Science Immersive Program
 subtitle: What does Divergence Academy Teach
+bigimg: /img/path.jpg
 ---
 
 *Are you a interested in taking a course with us? Learn more on our programs [page](http://divergence.academy/data-science-immersive) or [contact us](mailto:hello@divergence.academy).*
