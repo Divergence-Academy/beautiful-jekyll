@@ -23,7 +23,7 @@ description: Functional & Probabilistic Programming, Machine Learning, Microserv
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutus"
+  About Us: "http://divergence.academy/about-us/"
   Resources:
     - Data Science Immersive: "http://divergence.academy/data-science-immersive/"
     - Data Science Adaptive: "http://divergence.academy/data-science-adaptive/"
