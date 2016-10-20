@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started with Data Science
 subtitle: What are the prerequisites to get started at Divergence Academy?
-bigimg: /img/hands-chart-world.jpg
+bigimg: /img/hands-chart-world-map.jpg
 ---
 
 ## BASIC 
