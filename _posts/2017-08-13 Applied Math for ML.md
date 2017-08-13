@@ -2,7 +2,7 @@
 layout: post
 title: Applied Math for Machine Learning using Numpy stack in Python
 subtitle: Cultivating Algorithmic Intuition 
-bigimg: /img/hands-chart-world-map.jpg
+bigimg: /img/intuition.jpg
 ---
 
 ## WHY WORRY ABOUT THE MATH
