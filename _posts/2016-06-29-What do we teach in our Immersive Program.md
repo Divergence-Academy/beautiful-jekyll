@@ -7,7 +7,7 @@ bigimg: /img/path.jpg
 
 *Are you a interested in taking a course with us? Learn more on our programs [page](http://divergence.academy/data-science-immersive) or [contact us](mailto:hello@divergence.academy).*
 
-The course duration is from **Jan 16th - Mar 28th, 2017**.
+The course duration is from **Sept 11th - Dec 8th, 2017**.
 
 This 12-week course is a right blend of Business Analysis, Machine Learning, Data Engineering, and Software Development to build a Data Product. This course is well suited for:
  
