@@ -25,7 +25,7 @@ description: Functional & Probabilistic Programming, Machine Learning, Microserv
 navbar-links:
   About Us: "http://divergence.academy/about-us/"
   Resources:
-    - Data Science Immersive: "http://divergence.academy/data-science-immersive/"
+    - Data Science Immersive: "https://divergence.academy/datascience"
     - Data Science Adaptive: "http://divergence.academy/data-science-adaptive/"
     - Data Science (60 hours): "http://divergence.academy/data-science-60"
   Academy's home: "http://divergence.academy"
